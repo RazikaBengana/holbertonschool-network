@@ -171,10 +171,6 @@ General
 ```
 
 <br>
-
-**_Why all your files should end with a new line? See [HERE](https://unix.stackexchange.com/questions/18743/whats-the-point-in-adding-a-new-line-to-the-end-of-a-file/18789)_**
-
-<br>
 <br>
 
 <!-- ------------------------------------------------------------------------------------------------- -->
